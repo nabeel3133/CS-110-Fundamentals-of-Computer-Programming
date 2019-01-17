@@ -1,5 +1,5 @@
 # CS-110-Fundamentals-of-Computer-Programming
-This repository contains Assignments and Lab Tasks of the course.
+This repository contains my Assignments of the course.
 
 
 | Assignments & Labs | Topics |
